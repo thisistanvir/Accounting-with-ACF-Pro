@@ -1,0 +1,44 @@
+{
+    "key": "group_62bde09759106",
+    "title": "Footer Option",
+    "fields": [
+        {
+            "key": "field_62bde0b07537e",
+            "label": "Copyright Text",
+            "name": "copyright_text",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Copyright &copy;<script> document.write(new Date().getFullYear()); <\/script> All rights reserved | This template is made with <i class=\"fa fa-heart\" aria-hidden=\"true\"><\/i> by <a href=\"https:\/\/itanvir.net\" target=\"_blank\">iTanvir<\/a>",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "acf-options-footer-option"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1656704440
+}
